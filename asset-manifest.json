@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ReactStripe/static/css/main.24cf5dc3.chunk.css",
-    "main.js": "/ReactStripe/static/js/main.a3b900b4.chunk.js",
-    "main.js.map": "/ReactStripe/static/js/main.a3b900b4.chunk.js.map",
+    "main.js": "/ReactStripe/static/js/main.17617e87.chunk.js",
+    "main.js.map": "/ReactStripe/static/js/main.17617e87.chunk.js.map",
     "runtime-main.js": "/ReactStripe/static/js/runtime-main.f2863067.js",
     "runtime-main.js.map": "/ReactStripe/static/js/runtime-main.f2863067.js.map",
     "static/js/2.11c00a7a.chunk.js": "/ReactStripe/static/js/2.11c00a7a.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.f2863067.js",
     "static/js/2.11c00a7a.chunk.js",
     "static/css/main.24cf5dc3.chunk.css",
-    "static/js/main.a3b900b4.chunk.js"
+    "static/js/main.17617e87.chunk.js"
   ]
 }
